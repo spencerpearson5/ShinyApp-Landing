@@ -3,7 +3,7 @@ Landing Page for NFL Stats shiny project
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My Shiny App</title>
+  <title>My Shiny App</NFL Passing Data from 2001-2023>
 </head>
 <body>
   <h1>Welcome to My Shiny App</h1>
