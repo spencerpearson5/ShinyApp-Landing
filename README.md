@@ -4,6 +4,5 @@ Landing Page for NFL Stats shiny project
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>NFL Passing Data 2001-2023</title>
   <a href="https://spencer-pearson.shinyapps.io/NflPassingStats/" target="_blank">Launch App</a>
 </html>
